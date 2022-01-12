@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div style="display: inline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YvesDeSa&show_icons=true&theme=dracula" />
