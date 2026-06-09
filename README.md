@@ -1,16 +1,51 @@
-
-<div style="display: inline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YvesDeSa&show_icons=true&theme=dracula" />
-  <a href="https://github.com/YvesDeSa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesDeSa&layout=compact&theme=dracula&disable_animations)](https://github.com/YvesDeSa/github-readme-stats" />
+<div align="center">
+  <h2>Olá! Eu sou o Yves de Sá 👋</h2>
+  <p><b>Desenvolvedor Full-Stack | Pesquisador</b></p>
 </div>
- 
- ##
 
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+---
+
+### 👨‍💻 Sobre mim
+
+Sou estudante de Sistemas de Informação no IFES e atuo como pesquisador no laboratório LAIR. Meu foco é construir soluções web modernas, escaláveis e eficientes, cuidando de toda a arquitetura, do backend à interface de usuário. 
+
+- 🔭 **Atualmente trabalhando em:** Sistemas de Avaliação do Ciclo de Vida (LCA) para a indústria de rochas ornamentais e na criação de bots de monitoramento (WhatsApp com Baileys).
+- 🌱 **Foco técnico:** Arquiteturas backend com NestJS, interfaces dinâmicas com React/Remix, e automação/DevOps com n8n, Docker e Coolify.
+- 👯 **Sempre disposto a colaborar em:** Projetos de código aberto e ferramentas que facilitem o desenvolvimento ágil e a arquitetura de software limpa.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,remix,java,docker,githubactions,linux&theme=dark" alt="Minhas Skills" />
+  </a>
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/YvesDeSa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YvesDeSa&show_icons=true&theme=dracula&border_radius=5&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/YvesDeSa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvesDeSa&layout=compact&theme=dracula&border_radius=5&hide_border=true&disable_animations=true" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+<!-- Adicione seus links reais abaixo -->
+<div align="center">
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
