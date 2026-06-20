@@ -33,7 +33,7 @@ Sou estudante de Sistemas de Informação no IFES e atuo como pesquisador no lab
     <img height="180em" src="https://github-readme-stats-xi-roan-73.vercel.app/api?username=YvesDeSa&show_icons=true&theme=dracula&count_private=true&border_radius=0&v=1" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/YvesDeSa">
-    <img height="180em" src="https://github-readme-stats-xi-roan-73.vercel.app/api/top-langs/?username=YvesDeSa&layout=compact&theme=dracula&count_private=true&border_radius=0&disable_animations=true&v=1" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats-xi-roan-73.vercel.app/api/top-langs/?username=YvesDeSa&layout=compact&theme=dracula&count_private=true&border_radius=0&disable_animations=true&v=2" alt="Linguagens mais usadas" />
   </a>
 </div>
 
