@@ -19,7 +19,7 @@ Sou estudante de Sistemas de Informação no IFES e atuo como pesquisador no lab
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angula,java,docker,githubactions,linux&theme=dark" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,java,docker,githubactions,linux&theme=dark" alt="Minhas Skills" />
   </a>
 </div>
 
