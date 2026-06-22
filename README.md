@@ -30,7 +30,7 @@ Sou estudante de Sistemas de Informação no IFES e atuo como pesquisador no lab
 <div align="center">
   <a href="https://github.com/YvesDeSa">
     <!-- O parâmetro &v=1 no final quebra o cache e força a atualização imediata -->
-    <img height="180em" src="https://github-readme-stats-xi-roan-73.vercel.app/api?username=YvesDeSa&show_icons=true&theme=dracula&count_private=true&border_radius=0" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats-xi-roan-73.vercel.app/api?username=YvesDeSa&show_icons=true&theme=dracula&count_private=true&border_radius=0&v=3" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/YvesDeSa">
     <img height="180em" src="https://github-readme-stats-xi-roan-73.vercel.app/api/top-langs/?username=YvesDeSa&layout=compact&theme=dracula&count_private=true&border_radius=0&disable_animations=true&v=2" alt="Linguagens mais usadas" />
